@@ -21,5 +21,12 @@ var borrarfruta = frutas.shift("Uvas");
 //obtener index del elemento
 var posicion = frutas.indexOf("Cereza")
 
+let numArray = [1,2,3,4,5]
 
+function newNum(){
+    numArray.push(6,7)
+}
+
+//shift() elimina el elemento de index cero
+//pop() elimina el elemento del último índice
 

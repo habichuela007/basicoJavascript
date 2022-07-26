@@ -61,3 +61,6 @@ articulos.forEach(function(articulo){
 var articulosBaratos = articulos.some(function(articulo){
     return articulo.costo <= 700
 })
+
+/*métodos
+El método .push() nos permite agregar uno o más */
