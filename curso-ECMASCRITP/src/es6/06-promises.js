@@ -1,3 +1,4 @@
+// algo que va a pasar ahora, después o nunca
 const anotherFunction = () => {
     return new Promise((resolve,reject)=>{
         if(false) {
